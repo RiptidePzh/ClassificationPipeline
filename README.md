@@ -1,5 +1,6 @@
 # PyTorch Training Pipeline with Weights and Biases (W&B)
-> created by Zihan Pan -- Sep.17 2023 
+> created by Zihan Pan -- Sep.17 2023
+
 ![image](https://github.com/RiptidePzh/ClassificationPipeline/assets/85790664/d58885ad-64a4-44b4-bf67-49e2a3402a98)
 ![image](https://github.com/RiptidePzh/ClassificationPipeline/assets/85790664/53b17123-e47b-4435-8c18-a0afaf053229)
 
