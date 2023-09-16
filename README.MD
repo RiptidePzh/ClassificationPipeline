@@ -1,8 +1,5 @@
 # PyTorch Training Pipeline with Weights and Biases (W&B)
 > created by Zihan Pan -- Sep.17 2023 
-
-This repository contains a PyTorch-based training pipeline for deep learning tasks, integrated with [Weights and Biases (W&B)](https://wandb.ai/). The pipeline is designed to facilitate the training of deep neural networks, making it easy to track and visualize training progress and results.
-
 ## Table of Contents
 - [Overview](#overview)
 - [Installation](#installation)
