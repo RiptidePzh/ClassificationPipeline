@@ -45,6 +45,7 @@ In this code:
 - `from torchvision.models import resnet50` imports the `ResNet-50` model architecture from the `torchvision` library. 
 - `model = resnet50(weights=ResNet50_Weights.IMAGENET1K_V1).to(device)` loads the model to GPU or CPU specified earlier using the `device` variable.
 - By changing the model variable you should be able to train the model from different starting point
+- For more about ResNet: [https://arxiv.org/abs/1812.01187v2]
 
 ### GPU Backend
 The choice of GPU or CPU depends on various factors, including the availability of GPU hardware.
