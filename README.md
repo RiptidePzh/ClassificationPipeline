@@ -22,8 +22,8 @@ This PyTorch training pipeline is designed to streamline the process of training
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/yourproject.git
-   cd yourproject
+   git clone https://github.com/RiptidePzh/ClassificationPipeline.git
+   cd ClassificationPipeline
    ```
 
 2. Install the required Python packages. It's recommended to create a virtual environment before installing dependencies:
@@ -110,7 +110,7 @@ If you'd like to contribute to this project, please follow these steps:
 2. Clone your forked repository:
 
    ```bash
-   git clone https://github.com/yourusername/yourproject.git
+   git clone https://github.com/RiptidePzh/ClassificationPipeline.git
    ```
 
 3. Create a new branch for your contributions:
